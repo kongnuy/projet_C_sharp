@@ -1,0 +1,6 @@
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\ExoCsharp6\ExoCsharp6\bin\Debug\ExoCsharp6.exe.config
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\ExoCsharp6\ExoCsharp6\bin\Debug\ExoCsharp6.exe
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\ExoCsharp6\ExoCsharp6\bin\Debug\ExoCsharp6.pdb
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\ExoCsharp6\ExoCsharp6\obj\Debug\ExoCsharp6.exe
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\ExoCsharp6\ExoCsharp6\obj\Debug\ExoCsharp6.pdb
+C:\Users\lenovo ideapad 100\Documents\Visual Studio 2015\Projects\essais\ExoCsharp6\ExoCsharp6\obj\Debug\ExoCsharp6.csprojResolveAssemblyReference.cache
